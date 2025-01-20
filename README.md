@@ -5,7 +5,9 @@ An Informatics Engineering Student and Programmer who enjoys creating and sharin
 
 I am currently an active student at [Universitas Perjuangan Tasikmalaya](https://unper.ac.id/) and also currently participating in the [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://bangkit.academy) program on the Mobile Developmet learning path.
 
-<img alt="Android" title="Android" height="180px" src="https://developer.android.com/static/images/community/glow-droid.gif" />
+<div style="text-align: center;">
+  <img alt="Android" title="Android" height="240px" src="https://developer.android.com/static/images/community/glow-droid.gif" />  
+</div>
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
