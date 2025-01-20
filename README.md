@@ -5,12 +5,7 @@ An Informatics Engineering Student and Programmer who enjoys creating and sharin
 
 I am currently an active student at [Universitas Perjuangan Tasikmalaya](https://unper.ac.id/) and also currently participating in the [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://bangkit.academy) program on the Mobile Developmet learning path.
 
-
-- 🌱 I'm currently learning about jetpack compose technology for Android apps
-- 👯 I would like to collaborate in mobile and web development
-- 💬 Feel free to ask me about mobile or web development
-- 📫 How to reach me: galangrz337@gmail.com
-
+<img alt="Android" title="Android" height="180px" src="https://developer.android.com/static/images/community/glow-droid.gif" />
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
