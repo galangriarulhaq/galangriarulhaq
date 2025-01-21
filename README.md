@@ -23,7 +23,6 @@ I am currently an active student at [Universitas Perjuangan Tasikmalaya](https:/
 <p align="left">
 <a href="https://github.com/galangriarulhaq">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=galangriarulhaq&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=galangriarulhaq&layout=compact&langs_count=8&theme=white"/>
 </a>
 </p>
 
