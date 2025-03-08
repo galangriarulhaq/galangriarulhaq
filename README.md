@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Galang Riarulhaq.
+## Hi! 👋 I'm Galang Riarulhaq.
 
 
 An Informatics Engineering Student and Programmer who enjoys creating and sharing projects on web and mobile technologies! I really like Kotlin in my mobile projects and JavaScript for web projects. 
